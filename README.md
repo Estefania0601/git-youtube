@@ -8,3 +8,4 @@
 7. git commit --amend ---> para salir le damos a la tecla esc, luego ingresamos :wq! y enter
 8. git checkout -b rama-shirley
 9. git branch
+10. git checkout master
