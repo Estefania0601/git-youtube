@@ -12,4 +12,4 @@
 11. git merge rama-shirley
 12. git branch -d rama-shirley
 13. git push
-14. git commint -am
+14. git commit -am
